@@ -1,7 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Dimkarpenko&style=flat-square)
-
-
 <p align="center">
   <a href="https://github.com/Dimkarpenko">
     <img src="https://github-readme-stats.vercel.app/api?username=Dimkarpenko&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
