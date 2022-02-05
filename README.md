@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Dimkarpenko">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimkarpenko&theme=solarized_dark" width="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimkarpenko&hide=smarty,java,actionscript&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" width="500">
   </a>
 </p>
 
