@@ -20,19 +20,19 @@
 
 <p align="center">
   <a href="https://github.com/Dimkarpenko">
-    <img src="https://badges.pufler.dev/visits/Dimkarpenko/dimkagithub?logo=GitHub&style=plastic&a=0">
+    <img src="https://badges.pufler.dev/visits/Dimkarpenko/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/Dimkarpenko">
     <img src="https://badges.pufler.dev/years/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/Dimkarpenko">
     <img src="https://badges.pufler.dev/repos/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/Dimkarpenko">
     <img src="https://badges.pufler.dev/gists/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
-  <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub&style=plastic&a=0">
+  <a href="https://github.com/Dimkarpenko">
+    <img src="https://badges.pufler.dev/commits/monthly/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
   
 </p>
