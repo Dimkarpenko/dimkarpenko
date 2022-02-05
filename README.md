@@ -29,9 +29,6 @@
     <img src="https://badges.pufler.dev/repos/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/Dimkarpenko">
-    <img src="https://badges.pufler.dev/gists/Dimkarpenko?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/Dimkarpenko">
     <img src="https://badges.pufler.dev/commits/monthly/Dimkarpenko?logo=GitHub&style=plastic&a=0">
   </a>
   
