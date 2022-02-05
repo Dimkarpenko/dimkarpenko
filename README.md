@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/Dimkarpenko">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimkarpenko&hide=smarty,java,actionscript&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dimkarpenko&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Dimkarpenko">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dimkarpenko&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimkarpenko&hide=smarty,java,actionscript&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" width="400">
   </a>
 </p>
 
