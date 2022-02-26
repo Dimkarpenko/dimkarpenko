@@ -38,11 +38,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-OpenServer-0D1117?style=for-the-badge&logo=openserver&labelColor=0D1117)&nbsp;
 
-### Areas of Interest:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dimkarpenko}/count.svg" /></p> 
