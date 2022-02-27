@@ -19,8 +19,6 @@
 </div>
 <!-- ./STATS  -->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Dimkarpenko&theme=react-dark&hide_border=true&area=true)
-
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
